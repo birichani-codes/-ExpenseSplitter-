@@ -1,36 +1,11 @@
-![](https://github.com/wkostusiak/ExpenseSplitter/blob/master/banner.png)
 
 <h2 align="center">Expense Splitter</h2>
 
   <p align="center">
-    Responsive django app for splitting monthly expenses between group of people 💰 
-    <br>
-    <br>
-    <a href="https://expensesplitter.eu.pythonanywhere.com/"><strong>Try it! »</strong></a>
-    <br/>
-    <br/>
-  </p>
-</div>
-
-
+    Responsive django app for splitting monthly expenses between group of people 
+ 
 
 <!-- TABLE OF CONTENTS -->
-<details>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-
-    </li>
-    <li>
-      <li><a href="#features">Features</a></li>
-    </li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
 
 
 
@@ -58,7 +33,6 @@ Expense Splitter is a Python-based application designed to simplify the manageme
 * drop-down menu allowing to choose a month to be splitted <br><br>
 * immediate generation of your monthly summary <br><br>
 * registration (unique email) and login page 
-
 
 
 # -ExpenseSplitter-
