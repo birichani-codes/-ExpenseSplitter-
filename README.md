@@ -36,3 +36,5 @@ Expense Splitter is a Python-based application designed to simplify the manageme
 
 
 # -ExpenseSplitter-
+  * The Application is still in Development Phase.
+     
